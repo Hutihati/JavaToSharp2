@@ -13,7 +13,7 @@ namespace JavaToSharp2.db
             NameString = e;
         }
 
-        public string NameString { get; private set; } = "Your Name here";
+        public string NameString { get; set; } = "Bent";
 
         public List<string> FavouriteWordList { get; set; } = new List<string>();
 

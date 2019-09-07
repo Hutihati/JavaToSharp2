@@ -19,6 +19,7 @@ namespace JavaToSharp2
             Console.WriteLine("The fav words of " + em1.NameString + ":");
             em1.PrintAllWords();
 
+     
 
             Console.WriteLine("Test for git use2");
             Console.ReadLine();
