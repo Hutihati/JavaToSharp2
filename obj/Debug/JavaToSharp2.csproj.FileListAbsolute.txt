@@ -1,0 +1,7 @@
+E:\source\repos\JavaToSharp2\bin\Debug\JavaToSharp2.exe.config
+E:\source\repos\JavaToSharp2\bin\Debug\JavaToSharp2.exe
+E:\source\repos\JavaToSharp2\bin\Debug\JavaToSharp2.pdb
+E:\source\repos\JavaToSharp2\obj\Debug\JavaToSharp2.csprojAssemblyReference.cache
+E:\source\repos\JavaToSharp2\obj\Debug\JavaToSharp2.csproj.CoreCompileInputs.cache
+E:\source\repos\JavaToSharp2\obj\Debug\JavaToSharp2.exe
+E:\source\repos\JavaToSharp2\obj\Debug\JavaToSharp2.pdb
